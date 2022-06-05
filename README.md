@@ -14,12 +14,12 @@ sterowania wczesne gry na konsole NES takie jak „Mario Bros”, „Castlevania
 składa się z dwóch plansz i celem każdej z nich, jest dotarcie do końca mapy gdzie znajduję się skrzynia 
 ze skarbem. 
 
-2.1. Cele szczegółowe
-• Zaprojektowanie systemu zdrowia postaci gracza o Gdy zdrowie spadnie do 0, gra się kończy  
-o Gdy zdrowie jest niepełne, postać gracza może uleczyć się zbierająć „serduszka” z planszy 
-o Gdy zdrowie jest pełne, postać nie może korzystać z zbieranych „serduszek” 
-• Zaprojektowanie systemu walki o Gracz może wykonywać ataki żeby zadawać obrażenia 
-przeciwnikom o Przeciwnicy mogą patrolować wyznaczony obszar mapy i gdy na ich drodze 
+2.1. Cele szczegółowe  
+• Zaprojektowanie systemu zdrowia postaci gracza o Gdy zdrowie spadnie do 0, gra się kończy    
+o Gdy zdrowie jest niepełne, postać gracza może uleczyć się zbierająć „serduszka” z planszy  
+o Gdy zdrowie jest pełne, postać nie może korzystać z zbieranych „serduszek”   
+• Zaprojektowanie systemu walki o Gracz może wykonywać ataki żeby zadawać obrażenia  
+przeciwnikom o Przeciwnicy mogą patrolować wyznaczony obszar mapy i gdy na ich drodze  
 stanie postać gracza wykonują atak, zadając obrażenia 
 • Zaprojektowanie sterowania 
 • Zaprojektowanie i przygotowanie plansz 
