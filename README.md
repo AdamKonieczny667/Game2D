@@ -76,8 +76,8 @@ Program nie korzysta z danych użytkownika.
 Plikami zewnętrznymi są wszelkie tekstury, assety, sprite’y, ikonki zapisane w formacie PNG. Pliki graficzne pochodzą ze strony 
 assetstore.unity.com. 
 
-7.3. Podział na moduły, komunikacja między modułami
-Klasa PlayerMovement: 
+7.3. Podział na moduły, komunikacja między modułami  
+Klasa PlayerMovement:  
 - Jump() – skok postaci 
 - isGrounded() – sprawdzenie czy postać dotyka obiektu typu „ground” 
 - canAttack() – sprawdzenie czy postać może wykonać atak 
@@ -133,7 +133,7 @@ obiektem i usunięcie obiektu z planszy.
 
 8. Diagramy UML 
 
-8.1. Diagram czynności / aktywności
+8.1. Diagram czynności / aktywności  
 Diagram aktywności przedstawiający system podnoszenia przez gracza obiektów HealthCollectible:
 
 ![](images/diagram1.PNG)
@@ -143,7 +143,7 @@ Diagram aktywności przedstawiający system walki w grze:
 ![](images/diagram2.PNG)
 
 
-9. Literatura 
+9. Literatura  
 Dokumentacja dla twórców aplikacji na system operacyjny Android 
 https://developer.android.com/docs
 
