@@ -2,7 +2,8 @@
 Platformowa gra 2D
 
 
-1. Temat projektu i nazwa aplikacji 
+1. Temat projektu i nazwa aplikacji
+
 Tematem projektu jest platformowa gra 2D zbudowana w środowisku Unity. Aplikacja 
 nazywa się „Gra2D”. 
 
