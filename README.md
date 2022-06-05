@@ -30,22 +30,23 @@ o Przeciwnicy którzy stoją w miejscu i zadają obrażenia gdy gracz będzie do
 blisko  
 
 3. Funkcjonalności aplikacji 
-• System zdrowia gracza 
-• Sterowanie postacią (poruszanie się w na płaszczyźnie 2D) 
-• Możliwość atakowania 
-• Zbieranie „serduszek” które przywracają życie postaci gracza 
-• Atakowanie i zadawanie obrażeń przeciwnikom 
-• Pułapki zadające obrażenia postaci gracza 
-• Przeciwnicy poruszający się po wytyczonych ścieżkach i zadawaniu obrażeń postaci gracza 
 
-4. Technologie 
-Unity, C#
+• System zdrowia gracza  
+• Sterowanie postacią (poruszanie się w na płaszczyźnie 2D)  
+• Możliwość atakowania  
+• Zbieranie „serduszek” które przywracają życie postaci gracza  
+• Atakowanie i zadawanie obrażeń przeciwnikom  
+• Pułapki zadające obrażenia postaci gracza   
+• Przeciwnicy poruszający się po wytyczonych ścieżkach i zadawaniu obrażeń postaci gracza  
 
-5. Interesariusze aplikacji 
-Fani platformowych gier, fani gier w stylu „retro” 
+4. Technologie  
+Unity, C#  
 
-6. Projekt GUI  
-Menu gry: 
+5. Interesariusze aplikacji  
+Fani platformowych gier, fani gier w stylu „retro”   
+
+6. Projekt GUI   
+Menu gry:  
 
 <>
 
