@@ -16,8 +16,8 @@ ze skarbem.
 
 2.1. Cele szczegółowe  
 • Zaprojektowanie systemu zdrowia postaci gracza o Gdy zdrowie spadnie do 0, gra się kończy    
-o Gdy zdrowie jest niepełne, postać gracza może uleczyć się zbierająć „serduszka” z planszy  
-o Gdy zdrowie jest pełne, postać nie może korzystać z zbieranych „serduszek”   
+• Gdy zdrowie jest niepełne, postać gracza może uleczyć się zbierająć „serduszka” z planszy  
+• Gdy zdrowie jest pełne, postać nie może korzystać z zbieranych „serduszek”   
 • Zaprojektowanie systemu walki o Gracz może wykonywać ataki żeby zadawać obrażenia
 przeciwnikom o Przeciwnicy mogą patrolować wyznaczony obszar mapy i gdy na ich drodze
 stanie postać gracza wykonują atak, zadając obrażenia  
