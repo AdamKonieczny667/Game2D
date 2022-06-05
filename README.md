@@ -18,16 +18,16 @@ ze skarbem.
 • Zaprojektowanie systemu zdrowia postaci gracza o Gdy zdrowie spadnie do 0, gra się kończy    
 o Gdy zdrowie jest niepełne, postać gracza może uleczyć się zbierająć „serduszka” z planszy  
 o Gdy zdrowie jest pełne, postać nie może korzystać z zbieranych „serduszek”   
-• Zaprojektowanie systemu walki o Gracz może wykonywać ataki żeby zadawać obrażenia  
-przeciwnikom o Przeciwnicy mogą patrolować wyznaczony obszar mapy i gdy na ich drodze  
-stanie postać gracza wykonują atak, zadając obrażenia 
-• Zaprojektowanie sterowania 
-• Zaprojektowanie i przygotowanie plansz 
-• Zmiana planszy po skończeniu pierwszego poziomu 
+• Zaprojektowanie systemu walki o Gracz może wykonywać ataki żeby zadawać obrażenia
+przeciwnikom o Przeciwnicy mogą patrolować wyznaczony obszar mapy i gdy na ich drodze
+stanie postać gracza wykonują atak, zadając obrażenia  
+• Zaprojektowanie sterowania  
+• Zaprojektowanie i przygotowanie plansz  
+• Zmiana planszy po skończeniu pierwszego poziomu  
 • Zaprojktowanie przeciwników o Nieporuszające się pułapki które zadają obrażenia gdy 
 postać gracza zderzy się z nimi o Przeciwnicy którzy patrolują teren i atakują gracza 
 o Przeciwnicy którzy stoją w miejscu i zadają obrażenia gdy gracz będzie dostatecznie 
-blisko 
+blisko  
 
 3. Funkcjonalności aplikacji 
 • System zdrowia gracza 
