@@ -24,11 +24,11 @@ stanie postać gracza wykonują atak, zadając obrażenia
 • Zaprojektowanie sterowania  
 • Zaprojektowanie i przygotowanie plansz  
 • Zmiana planszy po skończeniu pierwszego poziomu  
-• Zaprojktowanie przeciwników 
-o Nieporuszające się pułapki które zadają obrażenia gdy 
+• Zaprojktowanie przeciwników  
+• Nieporuszające się pułapki które zadają obrażenia gdy 
 postać gracza zderzy się z nimi  
-o Przeciwnicy którzy patrolują teren i atakują gracza  
-o Przeciwnicy którzy stoją w miejscu i zadają obrażenia gdy gracz będzie dostatecznie
+• Przeciwnicy którzy patrolują teren i atakują gracza  
+• Przeciwnicy którzy stoją w miejscu i zadają obrażenia gdy gracz będzie dostatecznie
 blisko   
 
 3. Funkcjonalności aplikacji 
