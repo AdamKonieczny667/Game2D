@@ -52,22 +52,22 @@ Menu gry:
 
 Widok planszy gry: 
 
-<>
+![](images/game.PNG)
 
 W lewym górnym rogu znajdują się serca które reprezentują ilość życia postaci gracza. 
 U dołu ekranu znajdują się klawisze odpowiedzialne za: skok, atak i poruszanie się.
 
 Menu pokazujące się po utracie żyć: 
 
-<>
+![](images/gameover.PNG)
 
 Widok po skończeniu pierwszego poziomu: 
 
-<>
+![](images/endlevel.PNG)
 
 7. Struktura programu 
 
-<>
+![](images/struktura.PNG)
 
 7.1. Dane wykorzystywane przez program 
 Program nie korzysta z danych użytkownika. 
@@ -133,18 +133,14 @@ obiektem i usunięcie obiektu z planszy.
 
 8. Diagramy UML 
 
-8.1. Diagram przypadków użycia
-
-<>
-
-8.2. Diagram czynności / aktywności
+8.1. Diagram czynności / aktywności
 Diagram aktywności przedstawiający system podnoszenia przez gracza obiektów HealthCollectible:
 
-<>
+![](images/diagram1.PNG)
 
 Diagram aktywności przedstawiający system walki w grze: 
 
-<>
+![](images/diagram2.PNG)
 
 
 9. Literatura 
