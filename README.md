@@ -15,7 +15,7 @@ składa się z dwóch plansz i celem każdej z nich, jest dotarcie do końca map
 ze skarbem. 
 
 2.1. Cele szczegółowe
-• Zaprojektowanie systemu zdrowia postaci gracza o Gdy zdrowie spadnie do 0, gra się kończy 
+• Zaprojektowanie systemu zdrowia postaci gracza o Gdy zdrowie spadnie do 0, gra się kończy  
 o Gdy zdrowie jest niepełne, postać gracza może uleczyć się zbierająć „serduszka” z planszy 
 o Gdy zdrowie jest pełne, postać nie może korzystać z zbieranych „serduszek” 
 • Zaprojektowanie systemu walki o Gracz może wykonywać ataki żeby zadawać obrażenia 
