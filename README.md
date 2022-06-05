@@ -11,7 +11,7 @@ nazywa się „Gra2D”.
 
 Celem projektu jest stworzenie gry platformowej 2D przypominającą przez swoją grafikę i sposób 
 sterowania wczesne gry na konsole NES takie jak „Mario Bros”, „Castlevania” czy „Metroid”. Gra 
-składa się z dwóch plansz i celem każdej z nich, jest dotarcie do końca mapy gdzie znajduję się skrzynia 
+składa się z dwóch plansz i celem każdej z nich jest dotarcie do końca mapy gdzie znajduje się skrzynia 
 ze skarbem. 
 
 2.1. Cele szczegółowe  
