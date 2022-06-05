@@ -48,7 +48,7 @@ Fani platformowych gier, fani gier w stylu „retro”
 6. Projekt GUI   
 Menu gry:  
 
-<>
+![](images/menu.PNG)
 
 Widok planszy gry: 
 
